@@ -1,5 +1,19 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: green;
+    background-image: url(https://staging.gamehagcdn.com/games/281/background.jpg);
 }
+.figura {
+    font-size: 6rem;
+}
+
+#center {
+  font-size: 7rem; 
+}
+
+.boton {
+  display: flex;
+  justify-content: center;     
+}
+
+
